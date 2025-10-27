@@ -14,4 +14,5 @@ gTTS
 reportlab
 pypdf
 python-dotenv
+langchain-text-splitters
 
