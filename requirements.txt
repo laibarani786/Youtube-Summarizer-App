@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+groq
+validators
+requests
+beautifulsoup4
+lxml
+youtube-transcript-api
+yt-dlp
+gTTS
+reportlab
+pypdf
+python-dotenv
