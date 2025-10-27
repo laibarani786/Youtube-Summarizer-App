@@ -14,7 +14,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 # LLM & Langchain
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains.summarize import load_summarize_chain
 from langchain_community.document_loaders import WebBaseLoader, YoutubeLoader, PyPDFLoader
