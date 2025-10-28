@@ -12,6 +12,7 @@ youtube-transcript-api
 yt-dlp
 pypdf
 python-dotenv
-pillow==10.2.0
+pillow>=9.0.0,<10
 reportlab
 gTTS
+
