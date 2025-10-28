@@ -11,6 +11,6 @@ beautifulsoup4
 lxml
 youtube-transcript-api
 yt-dlp
-gTTS
-pillow
 python-dotenv
+pillow
+gTTS
