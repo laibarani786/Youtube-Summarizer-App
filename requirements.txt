@@ -1,5 +1,5 @@
-streamlit==1.25.0
-langchain==0.0.350
+streamlit==1.31.0
+langchain==0.1.0
 langchain-community>=0.0.10
 langchain-groq
 groq
@@ -12,6 +12,6 @@ youtube-transcript-api
 yt-dlp
 pypdf
 python-dotenv
-pillow>=10.2.0
+pillow==10.2.0
 reportlab
 gTTS
