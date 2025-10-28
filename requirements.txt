@@ -1,7 +1,6 @@
-streamlit
-langchain>=0.2.3
-langchain-core>=0.2.0
-langchain-community>=0.2.0
+streamlit==1.31.0
+langchain==0.0.316
+openai==0.28
 requests
 validators
 beautifulsoup4
