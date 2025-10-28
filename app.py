@@ -16,7 +16,7 @@ import streamlit.components.v1 as components
 # LLM & Langchain
 from langchain_core.prompts import PromptTemplate
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain.chains.summarization import load_summarization_chain
+from langchain.chains.summarize import load_summarize_chain
 from langchain_community.document_loaders import WebBaseLoader, YoutubeLoader, PyPDFLoader
 from langchain_groq import ChatGroq
 # YouTube helpers
@@ -649,5 +649,6 @@ with st.expander("🚨 Notes: What works vs. what to avoid"):
 """)
 
 # EOF
+
 
 
